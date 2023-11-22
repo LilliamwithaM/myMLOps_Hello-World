@@ -1,9 +1,5 @@
-import matplotlib
-matplotlib.use('Agg')
-
 import numpy as np
 import os
-import matplotlib.pyplot as plt
 
 # TensorFlow
 import tensorflow as tf
